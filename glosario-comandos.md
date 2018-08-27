@@ -17,4 +17,8 @@
 11. git reset HEAD nombreArchivo -> marca el archivo para no ser incluido en el                                     proximo commit
 12. git reset --soft HEAD -> desace el commit y conserva los cambios en el                                   arbol de trabajo local.
 13. git reset --hard HEAD -> restablece el arbol de trabajo a la version del                                 ultimo commit.
-14. git clean -> elimina los archivos desconocidos del arbol de trabajo local. 
+14. git clean -> elimina los archivos desconocidos del arbol de trabajo local.
+
+15. git checkout rama -> usado para diferentes acciones : recuperar archivos y commits, para hacer commits para crear y moverse entre los branch, etc
+16. git branch -> lista las ramas locales si se le añade -f rama rev                  sobrescribe la rama existente y comienza antes de la revision
+17. git merge ->  se utiliza para combinar dos ramas.
