@@ -25,4 +25,6 @@
 
 18. git pull -> descarga y guarda los cambios almacenados en el repositorio                     remoto.
 19. git push [alias] [branch] -> sube los cambios a un repositorio remoto.
-20. git fetch -> trae cambios desde un repo remoto pero no los fuciona para ellos abria que hacer merge
+20. git fetch -> trae cambios desde un repo remoto pero no los fuciona para ellos abria que hacer merge.
+21. git remote -> lista los repositorios remotos disponibles
+22. git remore add [URLrepo] -> añade un repositorio remoto a la lista de repos                                 registrados.
