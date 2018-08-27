@@ -14,3 +14,7 @@
 9. git log -> muestra el log del commit es decir la información que compromete      a una rama de trabajo.
   9.1 git log [desde [..hasta]] --stat -s 'pattern'
 10. git show [commit] -> ver un commit en especifico
+11. git reset HEAD nombreArchivo -> marca el archivo para no ser incluido en el                                     proximo commit
+12. git reset --soft HEAD -> desace el commit y conserva los cambios en el                                   arbol de trabajo local.
+13. git reset --hard HEAD -> restablece el arbol de trabajo a la version del                                 ultimo commit.
+14. git clean -> elimina los archivos desconocidos del arbol de trabajo local. 
