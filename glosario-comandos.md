@@ -22,3 +22,7 @@
 15. git checkout rama -> usado para diferentes acciones : recuperar archivos y commits, para hacer commits para crear y moverse entre los branch, etc
 16. git branch -> lista las ramas locales si se le añade -f rama rev                  sobrescribe la rama existente y comienza antes de la revision
 17. git merge ->  se utiliza para combinar dos ramas.
+
+18. git pull -> descarga y guarda los cambios almacenados en el repositorio                     remoto.
+19. git push [alias] [branch] -> sube los cambios a un repositorio remoto.
+20. git fetch -> trae cambios desde un repo remoto pero no los fuciona para ellos abria que hacer merge
