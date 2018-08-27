@@ -28,3 +28,6 @@
 20. git fetch -> trae cambios desde un repo remoto pero no los fuciona para ellos abria que hacer merge.
 21. git remote -> lista los repositorios remotos disponibles
 22. git remore add [URLrepo] -> añade un repositorio remoto a la lista de repos                                 registrados.
+23. Banderas: Son Iniciales que nos muestran lo que ocurre en nuestros archivos     y estado en que se encuentran en el momento. 
+        M: Modified, A: Added, C: Copy-edit, D: Deleted, R: Rename-edit, 
+        U: Unmerged
